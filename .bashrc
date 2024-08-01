@@ -1,1 +1,1 @@
-source ~/.source_git
+source ~/.git_bash
